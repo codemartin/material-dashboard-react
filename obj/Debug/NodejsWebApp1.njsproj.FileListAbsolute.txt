@@ -1,0 +1,3 @@
+C:\Users\martin\Documents\GitHub\material-dashboard-react\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+C:\Users\martin\Documents\GitHub\material-dashboard-react\obj\Debug\NodejsWebApp1.njsproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\GitHub\material-dashboard-react\bin\Microsoft.NodejsTools.WebRole.dll
